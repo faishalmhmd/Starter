@@ -1,3 +1,5 @@
+### Create new pages or modify the existing ones in `content/` directory.
+
 # Welcome to Nuxt Content Starter
 
 This is the main page displaying Markdown located at [content/index.md](https://github.com/nuxt/starter/blob/content/content/index.md).
@@ -5,8 +7,6 @@ This is the main page displaying Markdown located at [content/index.md](https://
 Move to [about](/about) page.
 
 ## Manage your Contents
-
-Create new pages or modify the existing ones in `content/` directory.
 
 ## Query & Render Pages
 
@@ -18,7 +18,7 @@ You can find an example of querying contents and rendering them in a [catch-all 
 The current [alert](https://github.com/nuxt/starter/blob/content/app/components/Alert.vue) and the [counter](https://github.com/nuxt/starter/blob/content/app/components/Counter.vue) below are `Vue` components integrated into the Markdown.
 ::
 
-::counter
-::
+\::counter{-129="asd"}
+\::
 
 Checkout out the [documentation](https://content.nuxt.com/docs/getting-started) to learn more.
